@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Welcome to SA Track
                 </div>
 
                 <div class="links">
